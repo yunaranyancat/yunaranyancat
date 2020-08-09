@@ -4,38 +4,11 @@
 
 ### A developer by day :computer: ,
 Apart from speaking **Malay**, **English** and **French** languages, I'm also able to speak in (sorted based on proficiency from High to Low);
-**Python**
 
-**Java**
-
-**PHP**
-
-**Javascript**
-
-**SQL**
-
-**Go**
-
-**Perl**
-
-**Pikachu**
-
-**C/C++**
-
-**Ruby**
+**Python, Java, PHP, Javascript, SQL, Go, Perl, Pikachu, C/C++, Ruby**
 
 I'm familiar with following frameworks (sorted based on proficiency from High to Low);
-**Django**
-
-**Flask**
-
-**Bootstrap**
-
-**Laravel**
-
-**Kivy**
-
-**Flutter**
+**Django, Flask, Bootstrap, Laravel, Kivy, Flutter**
 
 Some projects that I have created : 
 

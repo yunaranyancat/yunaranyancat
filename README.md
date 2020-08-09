@@ -3,11 +3,12 @@
 [![whoami](https://raw.githubusercontent.com/yunaranyancat/yunaranyancat/master/images/whoami.gif)](#)
 
 ### A developer by day :computer: ,
-Apart from speaking **Malay**, **English** and **French** languages, I'm also able to speak in (sorted based on proficiency from High to Low);
+Apart from speaking **Malay**, **English** and **French** languages, I'm also able to speak in;
 
 **Python, Java, PHP, Javascript, SQL, Go, Perl, Pikachu, C/C++, Ruby**
 
-I'm familiar with following frameworks (sorted based on proficiency from High to Low);
+I'm familiar with following frameworks;
+
 **Django, Flask, Bootstrap, Laravel, Kivy, Flutter**
 
 Some projects that I have created : 

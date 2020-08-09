@@ -5,7 +5,7 @@
 ### A developer by day :computer: ,
 Apart from speaking **Malay**, **English** and **French** languages, I'm also able to speak in;
 
-**Python, Java, PHP, Javascript, SQL, Go, Perl, Pikachu, C/C++, Ruby**
+** \[+\] Python, Java, PHP, Javascript, SQL, Go, Perl, Pikachu, C/C++, Ruby**
 
 I'm familiar with following frameworks;
 
